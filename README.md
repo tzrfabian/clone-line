@@ -8,8 +8,11 @@ Android cloning mobile application, taking references from Facebook with color a
 
 ## Cloning repo
 If you want to clone this repository, run this command in your command prompt or git bash:
+
     `git clone <repo_link>`
+    
 Then, install all package using this command (make sure you already in directory clone-line/server or clone-line/server):
+
    `npm install`
 
 ## Run Project

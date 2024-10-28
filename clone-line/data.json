@@ -1,0 +1,114 @@
+[
+    {
+      "_id": "66ec255987a0a1159375527c",
+      "content": "Loooxxmaaxxiing",
+      "tags": [
+        "meeew",
+        "great",
+        "boooom"
+      ],
+      "imgUrl": "https://assets1.ignimgs.com/thumbs/userUploaded/2017/3/28/36190303persona51280-3-1490732046280.jpg",
+      "authorId": "66eb87db9d5734655bf881bc",
+      "comments": [],
+      "likes": [],
+      "createdAt": "2024-09-19T13:21:29.931Z",
+      "updatedAt": "2024-09-19T13:21:29.931Z",
+      "author": {
+        "_id": "66eb87db9d5734655bf881bc",
+        "username": "farhankb",
+        "email": "farhankb@mail.com"
+      }
+    },
+    {
+      "_id": "66eaea0181834ed8eb190834",
+      "content": "PostCardssssss",
+      "tags": [
+        "abc1",
+        "abc3",
+        "a123ddd3"
+      ],
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/321e2c82781409.5d27af9b50b19.png",
+      "authorId": "66ea3a1c34f048719ab47628",
+      "comments": [
+        {
+          "content": "wowowowo",
+          "username": "user111",
+          "createdAt": "2024-09-19T04:55:10.291Z",
+          "updatedAt": "2024-09-19T04:55:10.291Z"
+        }
+      ],
+      "likes": [
+        {
+          "username": "user111",
+          "createdAt": "2024-09-19T04:56:21.216Z",
+          "updatedAt": "2024-09-19T04:56:21.216Z"
+        }
+      ],
+      "createdAt": "2024-09-18T14:56:01.613Z",
+      "updatedAt": "2024-09-19T04:56:21.216Z",
+      "author": {
+        "_id": "66ea3a1c34f048719ab47628",
+        "username": "user111",
+        "email": "user1@mail.com"
+      }
+    },
+    {
+      "_id": "66eae9fa81834ed8eb190833",
+      "content": "Post39393",
+      "tags": [
+        "abc1",
+        "abc3",
+        "a123ddd3"
+      ],
+      "imgUrl": "https://www.google.com",
+      "authorId": "66ea3a1c34f048719ab47628",
+      "comments": [],
+      "likes": [],
+      "createdAt": "2024-09-18T14:55:54.807Z",
+      "updatedAt": "2024-09-18T14:55:54.807Z",
+      "author": {
+        "_id": "66ea3a1c34f048719ab47628",
+        "username": "user111",
+        "email": "user1@mail.com"
+      }
+    },
+    {
+      "_id": "66eae9e581834ed8eb190832",
+      "content": "Testing13333",
+      "tags": [
+        "abc1",
+        "abc3",
+        "a123ddd3"
+      ],
+      "imgUrl": "https://www.google.com",
+      "authorId": "66ea3a1c34f048719ab47628",
+      "comments": [],
+      "likes": [],
+      "createdAt": "2024-09-18T14:55:33.651Z",
+      "updatedAt": "2024-09-18T14:55:33.651Z",
+      "author": {
+        "_id": "66ea3a1c34f048719ab47628",
+        "username": "user111",
+        "email": "user1@mail.com"
+      }
+    },
+    {
+      "_id": "66eae9d281834ed8eb190831",
+      "content": "Testing3",
+      "tags": [
+        "abc1",
+        "abc3"
+      ],
+      "imgUrl": "https://www.google.com",
+      "authorId": "66ea3a1c34f048719ab47628",
+      "comments": [],
+      "likes": [],
+      "createdAt": "2024-09-18T14:55:14.421Z",
+      "updatedAt": "2024-09-18T14:55:14.421Z",
+      "author": {
+        "_id": "66ea3a1c34f048719ab47628",
+        "username": "user111",
+        "email": "user1@mail.com"
+      }
+    }
+  ]

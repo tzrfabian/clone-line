@@ -12,7 +12,7 @@ If you want to clone this repository, run this command in your command prompt or
 
    `git clone <repo_link>`
     
-Then, install all package using this command (make sure you already in directory clone-line/server or clone-line/server):
+Then, install all package using this command (make sure you already in directory clone-line/server or clone-line/clone-line):
 
    `npm install`
 
